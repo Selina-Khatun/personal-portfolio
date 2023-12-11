@@ -1,0 +1,15 @@
+.hero {
+    /* background: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url('https://i.postimg.cc/y8M9CzyG/IMG-20231119-WA0030.jpg') no-repeat  fixed; */
+    background: linear-gradient(0deg, #121212 0%, rgba(18, 18, 18, 0.00) 100%),
+        url("https://i.postimg.cc/CxK1rMn0/IMG-20231119-WA0030.jpg") no-repeat right  fixed;
+    background-size: contain;
+    background-color: #0a5ba5;
+
+
+}
+/* .hero:hover {
+    background: linear-gradient(0deg, #121212 0%, rgba(18, 18, 18, 0.00) 100%),
+        url("https://i.postimg.cc/CxK1rMn0/IMG-20231119-WA0030.jpg") no-repeat right  fixed;
+    background-size: contain;
+    background-color: #c4cfda;
+ } */
