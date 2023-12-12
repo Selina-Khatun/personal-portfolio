@@ -9,7 +9,7 @@ const Banner = () => {
     return (
 
 
-        <div className="hero min-h-screen rounded-xl mb-[5%]  justify-start items-center pl-10">
+        <div className="hero  min-h-screen rounded-xl mb-[5%]  justify-start items-center pl-10">
 
             {/* <div className="overlay bg-opacity-60"></div> */}
             <div data-aos="zoom-in-up" className=" flex lg:flex-row flex-col hero-content  text-neutral-content">
