@@ -12,7 +12,7 @@ const Banner = () => {
         <div className="hero min-h-screen rounded-xl mb-[5%]  justify-start items-center pl-10">
 
             {/* <div className="overlay bg-opacity-60"></div> */}
-            <div data-aos="zoom-in-up" className=" hero-content  text-neutral-content">
+            <div data-aos="zoom-in-up" className=" flex lg:flex-row flex-col hero-content  text-neutral-content">
                <div className=' mt-[25%]'>
                <h1 className='animate-bounce'>Web</h1>
                <img className='w-[50%] mt-[10%] py-5 animate-bounce bg-slate-500' src={img4} alt="" />

@@ -3,6 +3,8 @@ import Banner from '../Banner/Banner';
 import FlipHover from '../Service/Card/FlipHover';
 import Hover from '../Hover/Hover';
 import AboutMe from '../AboutMe/AboutMe';
+import MyProjects from '../../MyProjects/MyProjects';
+import Service from '../Service/Service';
 
 
 const Home = () => (
@@ -10,8 +12,9 @@ const Home = () => (
      
         <Banner></Banner>
         <AboutMe></AboutMe>
-        <FlipHover></FlipHover>
-        <Hover></Hover>
+       <Service></Service>
+       <MyProjects></MyProjects>
+     
         
     </div>
 );
